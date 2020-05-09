@@ -21,8 +21,8 @@
     "bluebird": "^2.9.27",
     "bufferutil": "^4.0.1",
     "eventemitter2": "^0.4.14",
-    "node-libs-browser": ">= 0.4.0 <=0.6.0",
-    "rethinkdb": "~2.2.3",
+    "node-libs-browser": "^0.7.0",
+    "rethinkdb": "^2.4.2",
     "utf-8-validate": "^5.0.2",
     "ws": "^1.1.5"
   },
